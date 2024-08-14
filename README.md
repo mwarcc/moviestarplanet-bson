@@ -12,8 +12,8 @@ A utility for converting BSON to JSON and back, allowing easy editing of user-ge
 To install the moviestarplanet-bson, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/ugc-content-converter.git
-cd ugc-content-converter
+git clone https://github.com/mwarcc/moviestarplanet-bson.git
+cd  moviestarplanet-bson
 pip install -r requirements.txt
 ```
 
