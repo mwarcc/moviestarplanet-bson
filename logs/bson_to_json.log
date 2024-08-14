@@ -1,0 +1,15 @@
+2024-08-14 10:58:59,721 - INFO - Starting BSON to JSON conversion: bson.bson -> bson.json
+2024-08-14 10:58:59,730 - INFO - Successfully converted BSON to JSON. Output saved to 'bson.json'.
+2024-08-14 11:15:12,832 - INFO - Starting BSON to JSON conversion: data\144eaa8649234ff5bd7216d217e66cb8 -> results/myhome_basic_tiny.json
+2024-08-14 11:15:12,832 - ERROR - IOError while processing the files: [Errno 2] No such file or directory: 'data\\144eaa8649234ff5bd7216d217e66cb8'
+2024-08-14 11:15:35,128 - INFO - Starting BSON to JSON conversion: data\144eaa8649234ff5bd7216d217e66cb8 -> results/myhome_basic_tiny.json
+2024-08-14 11:15:35,137 - INFO - Successfully converted BSON to JSON. Output saved to 'results/myhome_basic_tiny.json'.
+2024-08-14 11:20:20,103 - INFO - Starting BSON to JSON conversion: data\1274c6e20ca849248a59c978c2d3e8d1 -> results/under_the_deep.json
+2024-08-14 11:20:20,117 - INFO - Successfully converted BSON to JSON. Output saved to 'results/under_the_deep.json'.
+2024-08-14 11:36:10,605 - INFO - Starting BSON to JSON conversion: data\c0292f7c70564096b23d4433be114819 -> results/halloween_21_vip_club.json
+2024-08-14 11:36:10,620 - INFO - Successfully converted BSON to JSON. Output saved to 'results/halloween_21_vip_club.json'.
+2024-08-14 11:40:29,138 - INFO - Starting BSON to JSON conversion: data\c0292f7c70564096b23d4433be114819 -> results/halloween_21_vip_club.json
+2024-08-14 11:40:29,138 - WARNING - File 'results/halloween_21_vip_club.json' already exists. Use '-y' to overwrite.
+2024-08-14 11:40:31,723 - INFO - Successfully converted BSON to JSON. Output saved to 'results/halloween_21_vip_club.json'.
+2024-08-14 15:08:48,057 - INFO - Starting BSON to JSON conversion: data\d5e746068a194d0387383790f8f71466 -> results/under_the_sea.json
+2024-08-14 15:08:48,072 - INFO - Successfully converted BSON to JSON. Output saved to 'results/under_the_sea.json'.
