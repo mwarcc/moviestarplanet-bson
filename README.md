@@ -14,7 +14,7 @@ To install the moviestarplanet-bson, clone the repository and install the requir
 ```bash
 git clone https://github.com/mwarcc/moviestarplanet-bson.git
 cd  moviestarplanet-bson
-pip install -r requirements.txt
+pip install bson
 ```
 
 ## Usage
