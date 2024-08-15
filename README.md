@@ -18,15 +18,18 @@ pip install bson
 ```
 
 ## Usage
-Convert BSON to JSON:
+Convert BSON to JSON
+Convert a BSON file to a JSON file for editing:
 ```bash
 python bson_to_json.py -f <bson_file_path> -o <output_file_path>
 ```
-Clean a room (Remove all elements, pets (Keep the music for now, I think):
+Clean a room
+Remove all elements and pets from a JSON file, while keeping the music intact (not sure):
 ```bash
 python remove_props.py -f <json_file_path>
 ```
-Convert JSON to BSON:
+Convert JSON to BSON
+Reconvert an edited JSON file back into BSON format:
 ```bash
 python json_to_bson.py -f <json_file_path> -o <output_file_path>
 ```
